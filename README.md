@@ -1,5 +1,8 @@
 # AngularApollo
 
+* [angular with apollo](https://medium.com/codingthesmartway-com-blog/apollo-client-for-angular-making-use-of-graphql-8d9a571e020c)
+* [feature modules](https://nitayneeman.com/posts/restructuring-an-angular-application-with-feature-modules/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
 ## Development server
